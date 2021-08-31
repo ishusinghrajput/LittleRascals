@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+padding: 0;
+font-family: Century Gothic;
+background-size: cover;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.titletxt{
+    position: absolute;
+    float: left;
+    top: 20px;
+    margin-left: 25px;
+    max-width: 500px;
+    font-size: 40px;
+    color: black;
+}
+
+.mainimage{
+    float: left;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 25px;
+    width: 500px;
+    max-height: 300px;
+}
+
+.firstpara{
+    float: left;
+    position: absolute;
+    top: 500px;
+    margin-left: 25px;
+}
+
+.secondimage{
+    float: left;
+    position: absolute;
+    top: 670px;
+    margin-left: 25px;
+    width: 500px;
+    max-height: 300px;
+}
+
+.secondpara{
+    float: left;
+    position: absolute;
+    top: 990px;
+    margin-left: 25px;
+}
+
+.downloadbtn{
+    float: left;
+    position: absolute;
+    top: 2100px;
+    padding: 5px 20px;
+    width: 270px;
+    height: 35px;
+    transition: 0.6s ease;
+    margin-left: 125px;
+    background-color: blue;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+.made{
+    float: left;
+    position: absolute;
+    top: 2150px;
+    margin-left: 25px;
+    padding: 30px 30px;
+}
