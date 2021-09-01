@@ -25,7 +25,6 @@ background-size: cover;
 .mainimage{
     position: absolute;
     margin-top: 160px;
-    width: 300px;
     width: 500px;
     max-height: 300px;
 }
