@@ -21,6 +21,8 @@ background-size: cover;
 }
 
 .mainimage{
+    display: inline-block;
+    vertical-align: middle
     float: left;
     position: absolute;
     margin-top: 160px;
