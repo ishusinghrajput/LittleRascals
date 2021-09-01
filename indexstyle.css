@@ -25,8 +25,7 @@ background-size: cover;
 .mainimage{
     position: absolute;
     margin-top: 160px;
-    width: 450px;
-    max-height: 400px;
+    width: 300px;
 }
 
 .firstpara{
