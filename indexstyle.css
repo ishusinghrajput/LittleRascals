@@ -19,38 +19,48 @@ background-size: cover;
 }
 
 .mainimage{
-   margin-top: 15px;
-   margin-left: 25px;
-   border: black , 5px;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   padding-bottom: 20px;
    width: 450px;
    height: 300px;
 }
 
 .firstpara{
-    margin-top: 15px;
-    margin-left: 25px;
+    margin: auto;
+   display: flex;
+   justify-content: center;
+   padding-bottom: 20px;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .secondimage{
-   margin-top: 15px;
-   margin-left: 25px;
-   border: black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
    width: 450px;
    height: 300px;
 }
 
 .secondpara{
-    margin-top: 15px;
-    margin-left: 25px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .downloadbtn{
-    margin-top: 15px;
-    padding: 5px 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 300px;
     transition: 0.6s ease;
     display: flex;
     justify-content: center;
@@ -62,7 +72,9 @@ background-size: cover;
 }
 
 .made{
-    margin-top: 20px;
-    margin-left: 25px;
-    padding: 30px 30px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
