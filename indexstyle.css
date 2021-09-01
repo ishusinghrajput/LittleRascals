@@ -23,9 +23,9 @@ background-size: cover;
 }
 
 .mainimage{
-    position: absolute;
-    margin-top: 160px;
-    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
