@@ -63,6 +63,15 @@ background-size: cover;
    height: 300px;
 }
 
+.thirdpara{
+    margin-top: 10px;
+    margin-left: 20px;
+   padding-bottom: 20px;
+    font-size: 20px;
+    color: rgb(49, 48, 48);
+    font-family: 'Lucida Sans';
+}
+
 .downloadbtn{
     margin: auto;
     display: flex;
